@@ -24,6 +24,9 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
