@@ -15,6 +15,20 @@
       },
       "template_folder": "_themes",
       "version": 0
+    },
+    {
+      "docset_name": "IntuneEDU-pr",
+      "build_source_folder": "IntuneEDU",
+      "build_output_subfolder": "IntuneEDU-pr",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
